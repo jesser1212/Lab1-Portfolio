@@ -1,5 +1,6 @@
 # Lab1-Portfolio
------
+
+
 ### Basic HTML programming expertise is an important skill for Computer Science graduates.  
 
 ##### In creating a web page you can think of the *Content Layer* as being the basic HTML. The *Presentation Layer* is the CSS, and the *Behavior Layer* as the javascript.  We wont be dealing with the Behavior layer until later in the class, but this assignment will help you become familiar with the Content Layer and the Presentation Layer.
@@ -32,7 +33,10 @@ Submit a link to learningsuite where we can see your portfolio online, and make 
 </ul>
 
 
-### Submit a link to your portfolio online (we should be able to view it live), as well as a link to your github repository with the files.
+### Submit a link to learningsuite where we can see your portfolio online (we should be able to view it live). You should have utilized this [github classroom link](https://classroom.github.com/assignment-invitations/69dd9e9ba889cee30a28108ab052cb07) to create your repository, and should make sure it is up to date when your assignment is submitted.
+
+
+For general grading guidelines, reference the table below:
 
 Passoff Level	| Behavior| General Grade
 ---|---|---
