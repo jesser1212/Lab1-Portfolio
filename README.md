@@ -5,7 +5,7 @@
 
 ##### In creating a web page you can think of the *Content Layer* as being the basic HTML. The *Presentation Layer* is the CSS, and the *Behavior Layer* as the javascript.  We wont be dealing with the Behavior layer until later in the class, but this assignment will help you become familiar with the Content Layer and the Presentation Layer.
 
-##### For this assignment, you'll need to create a web page portfolio that will showcase the different projects you have/will done. You can use the [freecodecamp portfolio project](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) as a starting point, but it is not required to use by any means. A major part of the assignment is to make your page look good, so make sure to spend some time on that.
+##### For this assignment, you'll need to create a web page portfolio that will showcase the different projects you have/will done. You can look at [freecodecamp portfolio project](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) for an example of a portfolio, but you can do something much simpler. A major part of the assignment is to make your page look good, so make sure to spend some time on that.
 
 Submit a link to learningsuite where we can see your portfolio online, and make sure that you created it from the [github classroom link](https://classroom.github.com/assignment-invitations/69dd9e9ba889cee30a28108ab052cb07) so that we are able to see your repository.
 
